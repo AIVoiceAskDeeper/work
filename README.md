@@ -1,9 +1,13 @@
 # 目次
 1. [はじめに(Introduction)](#anchor1)
 2. [現在挙げているコード](#anchor2)
+   
    2.1. [【SIGNATE第34回コンペ】価格帯分類](#anchor2.1.)
+   
    2.2. [【SIGNATE第35回コンペ】医療保険の費用帯予測](#anchor2.2.)
+   
    2.3. [【SIGNATE第36回コンペ】従業員の離職予測](#anchor2.3.)
+   
 
 <a id="anchor1"></a>
 ## 1. はじめに(Introduction)

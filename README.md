@@ -5,10 +5,11 @@
    2.1. [【SIGNATE第34回コンペ】価格帯分類](#anchor2.1.)
    
    2.2. [【SIGNATE第35回コンペ】医療保険の費用帯予測](#anchor2.2.)
-   
-   2.3. [【SIGNATE第36回コンペ】従業員の離職予測](#anchor2.3.)
-   
 
+3. [現在取り組んでいるコンペティションについて(7/20更新)]
+   
+   3.1. [【SIGNATE第36回コンペ】従業員の離職予測](#anchor2.3.)
+   
 <a id="anchor1"></a>
 ## 1. はじめに(Introduction)
 
@@ -32,7 +33,7 @@ The code that we have made available to the public is disclosed within the scope
 Thank you
 
 <a id="anchor2"></a>
-## 2. 現在挙げているコード(7/19更新)
+## 2. 現在挙げているコード
 <a id="anchor2.1."></a>
 ### 2.1. 【SIGNATE第34回コンペ】価格帯分類
 5/1~5/31 に開催されたBeginner限定コンペとなっています。
@@ -45,7 +46,10 @@ Thank you
 最終順位
 157位/290人
 
+
 <a id="anchor2.3."></a>
+## 3. 現在挙げているコード(7/19更新)
+<a id="anchor2.1."></a>
 ### 2.3. 【SIGNATE第36回コンペ】従業員の離職予測
 7/1~7/31 に開催されているBeginner限定コンペとなっています。
 現在順位(7/19)

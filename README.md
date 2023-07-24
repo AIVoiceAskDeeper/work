@@ -19,18 +19,6 @@
 
 なお、公開させていただいているコードにつきましては、SIGNATE様の情報公開ポリシーにのっとった範囲で公開させていただいております。
 
-(Introduction)
-
-I had no experience using Github before.
-
-However. I started using it because I thought it was important to keep backups and that it would be good to realize growth when I look back.
-
-Currently, I mainly keep the competitions held at SIGNATE (a Kaggle-like AI development competition platform run by a Japanese company).
-As a prospect, we will keep the results of our challenges in SIGNATE, Kaggle, and many other things.
-
-The code that we have made available to the public is disclosed within the scope of SIGNATE's information disclosure policy.
-
-Thank you
 
 <a id="anchor2"></a>
 ## 2. 現在挙げているコード

@@ -24,8 +24,10 @@
 <a id="anchor2"></a>
 ## 2. 現在挙げているコード
 ### 2.1. 【SIGNATE第34回コンペ】価格帯分類
-5/1~5/31 に開催されたBeginner、Registered限定コンペティションとなっています。
+<br>
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/750)
+<br>
+5/1~5/31 に開催されたBeginner、Registered限定コンペティションとなっています。
 <br>
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
 <br>
@@ -35,9 +37,12 @@
 
 
 ### 2.2. 【SIGNATE第35回コンペ】医療保険の費用帯予測
-6/1~6/30 に開催されたBeginner、Registered限定コンペティションとなっています。
 <br>
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/751)
+<br>
+6/1~6/30 に開催されたBeginner、Registered限定コンペティションとなっています。
+<br>
+
 <br>
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
 <br>
@@ -50,9 +55,11 @@
 ## 3. 現在取り組んでいるコンペ(7/24更新)
 <a id="anchor3"></a>
 ### 3.1. 【SIGNATE第36回コンペ】従業員の離職予測
-7/1~7/31 に開催されているBeginner、Registered限定コンペティションとなっています。
 <br>
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/752)
+<br>
+7/1~7/31 に開催されているBeginner、Registered限定コンペティションとなっています。
+
 <br>
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
 <br>

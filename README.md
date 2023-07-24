@@ -29,7 +29,7 @@
 
 5/1~5/31 に開催されたBeginner、Registered限定コンペティションとなっています。
 
-[Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
+[Beginner、Registered等の称号の説明についてはこちらから](https://signate.jp/users/rankings/help)
 
 最終順位
 <br>
@@ -42,7 +42,7 @@
 
 6/1~6/30 に開催されたBeginner、Registered限定コンペティションとなっています。
 
-[Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
+[Beginner、Registered等の称号の説明についてはこちらから](https://signate.jp/users/rankings/help)
 
 最終順位
 <br>
@@ -58,8 +58,7 @@
 
 7/1~7/31 に開催されているBeginner、Registered限定コンペティションとなっています。
 
-
-[Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
+[Beginner、Registered等の称号の説明についてはこちらから](https://signate.jp/users/rankings/help)
 
 現在順位(7/19)
 <br>

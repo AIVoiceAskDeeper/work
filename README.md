@@ -12,11 +12,11 @@
    
 <a id="anchor1"></a>
 ## 1. はじめに(Introduction)
-<br>
+
 今までGithubを使用した経験がありませんでしたが、バックアップを残すことの重要性、自分の成果を残し、振り返った際に成長を実感できたら良いと考え、利用を始めました。
-<br>
+
 現在はSIGNATE(日本の企業様が運営している、KaggleのようなAI開発コンペティションプラットフォーム)にて開催されているコンペティションを中心に残していますが、SIGNATE、Kaggleをはじめ、いろいろな物事に挑戦した結果を残していきます。
-<br>
+
 なお、公開させていただいているコードにつきましては、SIGNATE様の情報公開ポリシーにのっとった範囲で公開させていただいております。
 <br>
 
@@ -24,28 +24,26 @@
 <a id="anchor2"></a>
 ## 2. 現在挙げているコード
 ### 2.1. 【SIGNATE第34回コンペ】価格帯分類
-<br>
+
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/750)
-<br>
+
 5/1~5/31 に開催されたBeginner、Registered限定コンペティションとなっています。
-<br>
+
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
-<br>
+
 最終順位
 <br>
 133位/339人
 
 
 ### 2.2. 【SIGNATE第35回コンペ】医療保険の費用帯予測
-<br>
-[リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/751)
-<br>
-6/1~6/30 に開催されたBeginner、Registered限定コンペティションとなっています。
-<br>
 
-<br>
+[リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/751)
+
+6/1~6/30 に開催されたBeginner、Registered限定コンペティションとなっています。
+
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
-<br>
+
 最終順位
 <br>
 157位/290人
@@ -55,14 +53,14 @@
 ## 3. 現在取り組んでいるコンペ(7/24更新)
 <a id="anchor3"></a>
 ### 3.1. 【SIGNATE第36回コンペ】従業員の離職予測
-<br>
+
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/752)
-<br>
+
 7/1~7/31 に開催されているBeginner、Registered限定コンペティションとなっています。
 
-<br>
+
 [Beginner、Registered等の称号についてはこちらから](https://signate.jp/users/rankings/help)
-<br>
+
 現在順位(7/19)
 <br>
 36位/211人

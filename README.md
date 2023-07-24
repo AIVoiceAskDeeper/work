@@ -25,7 +25,6 @@
 <a id="anchor2.1."></a>
 ### 2.1. [【SIGNATE第34回コンペ】価格帯分類](https://signate.jp/competitions/750)
 5/1~5/31 に開催されたBeginner限定コンペとなっています。
-[リンク]
 <br>
 最終順位
 <br>
@@ -35,7 +34,6 @@
 <a id="anchor2.2."></a>
 ### 2.2. [【SIGNATE第35回コンペ】医療保険の費用帯予測](https://signate.jp/competitions/751)
 6/1~6/30 に開催されたBeginner限定コンペとなっています。
-[リンク](https://signate.jp/competitions/751)
 <br>
 最終順位
 <br>
@@ -47,7 +45,6 @@
 <a id="anchor3.1."></a>
 ### 3.1. [【SIGNATE第36回コンペ】従業員の離職予測](https://signate.jp/competitions/752)
 7/1~7/31 に開催されているBeginner限定コンペとなっています。
-[リンク](https://signate.jp/competitions/752)
 <br>
 現在順位(7/19)
 <br>

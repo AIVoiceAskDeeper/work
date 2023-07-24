@@ -65,5 +65,6 @@
 <br>
 36位/211人
 
-### 3.2. [SIGNATE Career Up Challenge【モデリング部門】：中古車の価格予測チャレンジ](https://signate.jp/competitions/1055)
+### 3.2. SIGNATE Career Up Challenge【モデリング部門】：中古車の価格予測チャレンジ
+[リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/1055)
 7/24~8/24 に開催されている社会人限定のコンペティションとなっています。

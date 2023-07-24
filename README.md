@@ -22,7 +22,7 @@
 
 
 <a id="anchor2"></a>
-## 2. 現在挙げているコード(各章からリンク先に遷移します)
+## 2. 現在挙げているコード(各章からSIGNATE様のページに遷移します)
 ### 2.1. [【SIGNATE第34回コンペ】価格帯分類](https://signate.jp/competitions/750)
 5/1~5/31 に開催されたBeginner、Registered限定コンペティションとなっています。
 <br>

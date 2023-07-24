@@ -2,13 +2,13 @@
 1. [はじめに(Introduction)](#anchor1)
 2. [現在挙げているコード](#anchor2)
    
-   2.1. [【SIGNATE第34回コンペ】価格帯分類](#anchor2.1.)
+   2.1. 【SIGNATE第34回コンペ】価格帯分類
    
-   2.2. [【SIGNATE第35回コンペ】医療保険の費用帯予測](#anchor2.2.)
+   2.2. 【SIGNATE第35回コンペ】医療保険の費用帯予測
 
-3. [現在取り組んでいるコンペティションについて(7/20更新)]
+3. [現在取り組んでいるコンペティションについて(7/20更新)](#anchor3)
    
-   3.1. [【SIGNATE第36回コンペ】従業員の離職予測](#anchor3.1.)
+   3.1. 【SIGNATE第36回コンペ】従業員の離職予測](#anchor3.1.)
    
 <a id="anchor1"></a>
 ## 1. はじめに(Introduction)
@@ -22,7 +22,6 @@
 
 <a id="anchor2"></a>
 ## 2. 現在挙げているコード
-<a id="anchor2.1."></a>
 ### 2.1. [【SIGNATE第34回コンペ】価格帯分類](https://signate.jp/competitions/750)
 5/1~5/31 に開催されたBeginner限定コンペとなっています。
 <br>
@@ -31,7 +30,6 @@
 133位/339人
 
 
-<a id="anchor2.2."></a>
 ### 2.2. [【SIGNATE第35回コンペ】医療保険の費用帯予測](https://signate.jp/competitions/751)
 6/1~6/30 に開催されたBeginner限定コンペとなっています。
 <br>
@@ -40,9 +38,9 @@
 157位/290人
 
 
-<a id="anchor2.3."></a>
+
 ## 3. 現在取り組んでいるコンペ(7/19更新)
-<a id="anchor3.1."></a>
+<a id="anchor3"></a>
 ### 3.1. [【SIGNATE第36回コンペ】従業員の離職予測](https://signate.jp/competitions/752)
 7/1~7/31 に開催されているBeginner限定コンペとなっています。
 <br>

@@ -59,9 +59,9 @@
 
 [Beginner、Registered等の称号の説明についてはこちらから](https://signate.jp/users/rankings/help)
 
-現在順位(7/19)
+最終順位
 <br>
-36位/211人
+59位/281人
 
 ### 3.2. SIGNATE Career Up Challenge【モデリング部門】：中古車の価格予測チャレンジ
 [リンク先(SIGNATE様のページに遷移します)](https://signate.jp/competitions/1055)
